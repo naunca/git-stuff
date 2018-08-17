@@ -1,4 +1,5 @@
 echo Sourcing aliases...
+
 alias load=uptime
 alias l="ls --color=auto -la"
 alias sa="source ~/.bash_aliases"
