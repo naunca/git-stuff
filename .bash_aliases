@@ -13,4 +13,4 @@ alias path="printenv PATH"
 alias ps1="ps -aux | more"
 alias deltree="rm -fdr"
 alias gitconfig="git config --global user.name \"Chris Naun\";git config --global user.email \"k5n@yahoo.com\";git config -l"
-
+alias gitupdate="git add --all;git commit -m \"Updating .bash_aliases\";git push"
