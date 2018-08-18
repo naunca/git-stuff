@@ -12,9 +12,7 @@ alias temp="/opt/vc/bin/vcgencmd measure_temp"
 alias path="printenv PATH"
 alias ps1="ps -aux | more"
 alias deltree="rm -fdr"
-alias gitconfig="git config --global user.name \"Chris Naun\";git config --global user.email \"k5n@yahoo.com\";git config -l"
+alias gitconfig="git config --global user.name \"C N\";git config --global user.email \"k5n@yahoo.com\";git config -l"
 alias gitupload="cd ~/git-stuff/;git add --all;git commit -m \"Updating .bash_aliases\";git push"
 alias gitdownload="cd ~/git-stuff/;git clone https://github.com/naunca/git-stuff"
 alias diskspace="df -h"
-alias sshkanis="ssh -p 2222 -i ~/.ssh/ssh_abk adamhi.ddns.net" #/home/akanis/.ssh/ssh_abk
-
